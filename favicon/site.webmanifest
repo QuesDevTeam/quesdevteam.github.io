@@ -1,0 +1,14 @@
+{
+    "name": "QUES \uae30\uc220\ube14\ub85c\uadf8",
+    "short_name": "QUES \uae30\uc220\ube14\ub85c\uadf8",
+    "icons": [
+        {
+            "src": "/android-chrome-96x96.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#fefefe",
+    "background_color": "#fefefe",
+    "display": "standalone"
+}
